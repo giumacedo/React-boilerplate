@@ -1,7 +1,7 @@
 {
-  "name": "GMZ",
+  "name": "React-boilerplate",
   "version": "1.0.0",
-  "description": "GMZ ( Game MastersZen ) game channel website",
+  "description": "Basic react-boilerplate with webpack, eslint, babel",
   "main": "index.js",
   "author": "Giulliano <giulli.macedo@gmail.com>",
   "license": "MIT",
